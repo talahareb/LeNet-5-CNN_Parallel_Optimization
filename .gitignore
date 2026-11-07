@@ -1,0 +1,10 @@
+# Native binaries and object files
+*.o
+seq/lenet5
+omp/lenet5
+mpi/lenet5
+cuda/lenet5
+model.dat
+*.log
+.DS_Store
+__pycache__/
