@@ -1,0 +1,5 @@
+# Publishing and licenses
+
+The input team archive contains an abbreviated Apache 2.0 notice, but it does not grant rights to source code created by other authors. The foundational serial implementation by `fan-wenjie/LeNet-5` is MIT-licensed. The public `SnailWalkerYC/LeNet-5_Speed_Up` OpenMP/CUDA repository currently displays no explicit license in its root file listing. A public repository is not automatically freely redistributable. Before uploading these third-party-derived versions to a **public** GitHub repository, confirm permission or replace the affected code with implementations you have rights to distribute. Attribution is necessary but not a replacement for permission. The original team archive's notice is preserved in `ORIGINAL_PROJECT_LICENSE_NOTE.txt` for historical context, not as an assurance that all files are Apache-licensed.
+
+The MNIST data are included as provided with the original course ZIP. Verify any relevant dataset terms before public redistribution. The repository contains no published model weights or sensitive student IDs.
